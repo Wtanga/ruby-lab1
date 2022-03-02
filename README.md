@@ -1,8 +1,3 @@
-# Ruby Starter Project
-
-[![Unit Tests & Lint](https://github.com/GypsyLich/ruby-starter-project/actions/workflows/main.yml/badge.svg)](https://github.com/GypsyLich/ruby-starter-project/actions/workflows/main.yml)
-
-
 ## Install
 
 ```bash
